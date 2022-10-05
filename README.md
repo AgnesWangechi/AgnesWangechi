@@ -14,7 +14,7 @@ Hello there👋🏿️, welcome to my github.
 
 - 🤔️ Learning more about Data Analysis and Software engineering.
 
-- 💬 The versatility of Python amazes me. Using it in data analysis to embedded systems and even CRUD applications makes it my go to language.
+- 💬 The versatility of Python amazes me everytime. Using it in data analysis to embedded systems and even CRUD applications makes it my go to language.
 
 - 📫 How to reach me **engwangechi@gmail.com**
 
