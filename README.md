@@ -1,21 +1,27 @@
 # 🍀️ Agnes Wangechi
 **An Electrical and Electronics Engineer**
 
-Hello there👋🏿️, welcome to my github. I am an aspiring software engineer with an interest in telling stories with data. The versatility of Python makes it my go to language. 
+Hello there👋🏿️, welcome to my github. 
+<p align="left"> <a href="https://twitter.com/agnes__wangechi" target="blank"><img src="https://img.shields.io/twitter/follow/agnes__wangechi?logo=twitter&style=for-the-badge" alt="agnes__wangechi" /></a> </p>
+<p align="left">
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/47e358432b88d0ffdc582cfee1c637cfa07414d43dc78333d8b1da085f404dba/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agneswangechi&label=Profile%20views&color=0e75b6&style=flat" alt="agneswangechi" /> </p>
 
 
-- 💬 Ask me about **Embedded Systems**
+<h3 align="left">👩🏿‍🦱️ About Me:</h3>
+
+- 🎓️ Graduating with a BSc in Electrical and Electronics Engineering from University of Nairobi in December 2022
+
+- 🤔️ Learning more about Data Analysis and Software engineering.
+
+- 💬 The versatility of Python amazes me. Using it in data analysis to embedded systems and even CRUD applications makes it my go to language.
 
 - 📫 How to reach me **engwangechi@gmail.com**
 
 - 🌍️ Location **Nairobi, Kenya**
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/agnes__wangechi" target="blank"><img src="https://img.shields.io/twitter/follow/agnes__wangechi?logo=twitter&style=for-the-badge" alt="agnes__wangechi" /></a> </p>
-<p align="left">
+
 <a href="https://twitter.com/agnes__wangechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnes__wangechi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agnes-wangechi-gichuhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnes-wangechi-gichuhi" height="30" width="40" /></a>
 </p>
